@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KP_2024_ProzherinM
+</name>
+</assembly>
+<members>
+<member name="T:KP_2024_ProzherinM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KP_2024_ProzherinM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KP_2024_ProzherinM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.APPLICATION_WORKERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CATEGORY_OF_WORKSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CLIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CONTROLLERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.PERFORMANCE_ASSESSMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.POSTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.SERVICE_REQUESTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.STATUSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.TYPE_OF_WORKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.WORKERSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.APPLICATION_WORKERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CATEGORY_OF_WORKSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CLIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CONTROLLERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.PERFORMANCE_ASSESSMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.POSTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.SERVICE_REQUESTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.STATUSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.TYPE_OF_WORKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.WORKERSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.APPLICATION_WORKERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CATEGORY_OF_WORKSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CLIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.CONTROLLERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.PERFORMANCE_ASSESSMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.POSTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.SERVICE_REQUESTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.STATUSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.TYPE_OF_WORKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSet.WORKERSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.APPLICATION_WORKERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.CATEGORY_OF_WORKSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.CLIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.CONTROLLERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.PERFORMANCE_ASSESSMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.POSTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.SERVICE_REQUESTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.STATUSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TYPE_OF_WORKTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.WORKERSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KP_2024_ProzherinM.KP_2024_ProzherinMDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KP_2024_ProzherinM.KP_2024_ProzherinMDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KP_2024_ProzherinM.KP_2024_ProzherinMDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.UpdateAll(KP_2024_ProzherinM.KP_2024_ProzherinMDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:KP_2024_ProzherinM.KP_2024_ProzherinMDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

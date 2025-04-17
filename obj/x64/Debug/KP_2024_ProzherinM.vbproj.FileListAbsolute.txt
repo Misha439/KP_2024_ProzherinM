@@ -1,0 +1,12 @@
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\bin\x64\Debug\KP_2024_ProzherinM.exe.config
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\bin\x64\Debug\KP_2024_ProzherinM.exe
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\bin\x64\Debug\KP_2024_ProzherinM.pdb
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\bin\x64\Debug\KP_2024_ProzherinM.xml
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.vbproj.AssemblyReference.cache
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.Form1.resources
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.Resources.resources
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.vbproj.GenerateResource.cache
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.vbproj.CoreCompileInputs.cache
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.exe
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.xml
+D:\УП 01.01\Задания\2.2 Разработка интерфейса основного окна в VB+\KP_2024_ProzherinM\obj\x64\Debug\KP_2024_ProzherinM.pdb
